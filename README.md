@@ -2,13 +2,6 @@
 
 A simple virtual drum kit project built using HTML, CSS, and JavaScript.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [License](#license)
-
 ## Overview
 
 This project is a virtual drum kit that allows users to play different drum sounds using their keyboard. Each key corresponds to a specific drum sound, creating a fun and interactive experience for users.
